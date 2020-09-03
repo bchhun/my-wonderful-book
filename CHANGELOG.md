@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/bchhun/my-wonderful-book/compare/v2.2.0...v2.3.0) (2020-09-03)
+
+
+### Features
+
+* new chapter 3. yay ([b20c9a2](https://github.com/bchhun/my-wonderful-book/commit/b20c9a2a69e81a568aa13859aa745817318a7b37))
+
 # [2.2.0](https://github.com/bchhun/my-wonderful-book/compare/v2.1.0...v2.2.0) (2020-09-03)
 
 
