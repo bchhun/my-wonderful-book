@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/bchhun/my-wonderful-book/compare/v2.1.0...v2.2.0) (2020-09-03)
+
+
+### Features
+
+* forgot the package-lock.json file ([a982fbc](https://github.com/bchhun/my-wonderful-book/commit/a982fbcdb43a3ecea15825242838c1295dd2754d))
+
 # [2.1.0](https://github.com/bchhun/my-wonderful-book/compare/v2.0.2...v2.1.0) (2020-09-03)
 
 
