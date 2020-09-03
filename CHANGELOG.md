@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/bchhun/my-wonderful-book/compare/v2.0.1...v2.0.2) (2020-09-03)
+
+
+### Bug Fixes
+
+* notes-generator is mandatory ? ([6b35a05](https://github.com/bchhun/my-wonderful-book/commit/6b35a05e2322409e95b09448cb6b904aac5878b5))
+
 # [2.0.0](https://github.com/bchhun/my-wonderful-book/compare/v1.0.0...v2.0.0) (2020-09-03)
 
 
