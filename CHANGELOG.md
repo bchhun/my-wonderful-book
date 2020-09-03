@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/bchhun/my-wonderful-book/compare/v2.3.0...v2.3.1) (2020-09-03)
+
+
+### Bug Fixes
+
+* removed a sentence ([0b19ff7](https://github.com/bchhun/my-wonderful-book/commit/0b19ff7a6d668ac224c3c8edfa2de3ab3dfa12d5))
+
 # [2.3.0](https://github.com/bchhun/my-wonderful-book/compare/v2.2.0...v2.3.0) (2020-09-03)
 
 
