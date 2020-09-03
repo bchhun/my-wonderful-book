@@ -1,3 +1,21 @@
+# [2.0.0](https://github.com/bchhun/my-wonderful-book/compare/v1.0.0...v2.0.0) (2020-09-03)
+
+
+### Bug Fixes
+
+* rewrote chapter 1 ([8b79478](https://github.com/bchhun/my-wonderful-book/commit/8b79478b45477e89a95b703d43768a4f20de608f))
+
+
+### Features
+
+* chapter 1 ([dc8eedf](https://github.com/bchhun/my-wonderful-book/commit/dc8eedffae7ff24bd2e707b8ffc219ae79ff1e4e))
+* chapter 2 ([74ab702](https://github.com/bchhun/my-wonderful-book/commit/74ab70285e8a8c64a3681e901ae426a67a6be307))
+
+
+### BREAKING CHANGES
+
+* my story needs to be reworked completely. How deceiving.
+
 # [1.1.0](https://github.com/bchhun/my-wonderful-book/compare/v1.0.0...v1.1.0) (2020-09-03)
 
 
