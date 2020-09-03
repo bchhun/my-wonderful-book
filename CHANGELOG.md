@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/bchhun/my-wonderful-book/compare/v2.0.2...v2.1.0) (2020-09-03)
+
+
+### Features
+
+* added the package.json update ([d3abb7d](https://github.com/bchhun/my-wonderful-book/commit/d3abb7d7eeaeaabdff6f061f8c7d542fd8cf03c6))
+
 ## [2.0.2](https://github.com/bchhun/my-wonderful-book/compare/v2.0.1...v2.0.2) (2020-09-03)
 
 
