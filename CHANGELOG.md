@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bchhun/my-wonderful-book/compare/v1.0.0...v1.1.0) (2020-09-03)
+
+
+### Features
+
+* chapter 1 ([0a5ae06](https://github.com/bchhun/my-wonderful-book/commit/0a5ae069213ad98f4b7da8447a9581958247dded))
+
 # 1.0.0 (2020-09-03)
 
 
